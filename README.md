@@ -74,4 +74,4 @@
   12. if you enter ```192.168.10.247``` into your browser you should see the following page:
 
 
-  ![Alt Image Text](Screen Shot 2018-10-15 at 15.26.01.png "Webpage screenshot")
+  ![Alt Image Text](Screen Shot 2018-10-15 at 15.26.01.png)
